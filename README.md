@@ -61,4 +61,4 @@ You can glance at photos what I did overall on [its album](https://photos.app.go
 
 ## Self-criticism
 
-I **very too much** like and interested in Object-Oriented Programming Concept and Design Patterns, nonetheless, I (couldn't)didn't follow my intention for this project thereby feeling me bad for the case :/
+I **very too much** like and interested in Object-Oriented Programming Concept and Design Patterns, nonetheless, I (couldn't)didn't follow my intention for this project since the time is too much short to complete this task :/

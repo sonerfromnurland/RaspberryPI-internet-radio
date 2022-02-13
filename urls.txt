@@ -1,0 +1,6 @@
+http://142.4.206.137:26284/
+http://rss-streaming.co.uk:8062/listen.pls?sid=1
+http://94.102.5.183:9928/;stream.mp3
+http://retroserver.streamr.ru:8043/retro128.m3u
+http://stream.funradio.sk:8000/80-90-128.mp3.m3u
+http://s4.voscast.com:8432/
